@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Prem1612/Prem1612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Introduction
+# Prem Yadav
+#### 🎓 Mathematics & Computing, IIT Guwahati
+#### ✉️ <a href="mailto:y.prem@iitg.ac.in">y.prem@iitg.ac.in</a>
+#### ROLL No. 220123047
+#### From 📍Azamgarh, UP, India
+#### Hostel - Umiam
 
-Here are some ideas to get you started:
+- 🔭 I’m currently upskilling in Competitive programing
+- 🌱 I’m currently learning Data Structures & Algos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
